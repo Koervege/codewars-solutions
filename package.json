@@ -1,8 +1,11 @@
 {
-  "name": "Katas",
+  "name": "katas",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Carlos <carlos_arce93@hotmail.com>",
+  "scripts": {
+    "test": "jest"
+  },
   "license": "MIT",
   "dependencies": {
     "jest": "^27.0.4"
