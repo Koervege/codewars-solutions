@@ -2,3 +2,4 @@
 1. [Which triangle is that?](https://www.codewars.com/kata/564d398e2ecf66cec00000a9) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/which-triangle/index.js)
 1. [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/highest-and-lowest/index.js)
 1. [Easy Line](https://www.codewars.com/kata/56e7d40129035aed6c000632) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/easy-line/index.js)
+1. [Mumbling](https://www.codewars.com/kata/mumbling) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/mumbling/index.js)
