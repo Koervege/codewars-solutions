@@ -1,0 +1,1 @@
+module.exports = highAndLow = (nums) => `${Math.max(...nums.split(' '))} ${Math.min(...nums.split(' '))}`
