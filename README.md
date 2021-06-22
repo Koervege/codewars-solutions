@@ -3,3 +3,4 @@
 1. [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/highest-and-lowest/index.js)
 1. [Easy Line](https://www.codewars.com/kata/56e7d40129035aed6c000632) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/easy-line/index.js)
 1. [Mumbling](https://www.codewars.com/kata/mumbling) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/mumbling/index.js)
+1. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/disemvowel/index.js)
