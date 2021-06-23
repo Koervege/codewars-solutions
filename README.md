@@ -5,3 +5,5 @@
 1. [Mumbling](https://www.codewars.com/kata/mumbling) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/mumbling/index.js)
 1. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/disemvowel/index.js)
 1. [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/square-every-digit/index.js)
+1. [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/descending/index.js)
+1. [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) - [Solution](https://github.com/Koervege/codewars-solutions/blob/main/7-kyu/get-middle/index.js)
